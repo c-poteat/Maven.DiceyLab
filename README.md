@@ -5,7 +5,7 @@ Create a Dice class that acts like a set of N random-tossed dies.
 ```java
 Dice dice = new Dice(2); // for craps
 Dice dice = new Dice(5); // for yatzee
-
+ 
 Integer toss = dice.tossAndSum();
 ```
 make a couple unit tests for the Dice class. 
